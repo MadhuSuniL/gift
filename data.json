@@ -1,0 +1,540 @@
+{
+  "root": {
+    "bookTitle": "Bujji & Kanna – A Love Written by Time",
+    "intro": {
+        "title": "A Story Meant to Happen",
+        "subtitle": "Some loves are written slowly… but deeply",
+        "buttonText": "Feel it"
+    },
+    "chapters": [
+        {
+            "chapterId": 1,
+            "chapterTitle": "The First Feeling (Joint Wheel Scene)",
+            "pages": [
+                {
+                    "pageNumber": 1,
+                    "content": "2010 lo, chinna village lo jarige **Gangamma Thirunala event** tho ee story start ayyindi.\nChala rojula taruvatha event jarugutondani, village motham lighting, sound, colours tho full lively ga undi.\nMadhu family kuda vachcharu — mainly because idi tana **ammamma gaari village**.\n\nAkkada 10 years unna **Madhu**, chinnodu, innocent ga, relatives tho nadusthu event ni enjoy chestunnadu.\n\nAla crowd lo nadusthunnappudu…\nSuddenly Madhu steps stop ayyayi.",
+                    "image": "public/images/ch1/i1.png",
+                    "music": "public/music/ch1/m1.mp3"
+                },
+                {
+                    "pageNumber": 2,
+                    "content": "Because he saw **her**.\n\n**Joint wheel** lo, unna small boxes lo oka box meeda oka chinna ammayi kurchoni undi — **Priyanka**.\n6–7 years, cute ribbons, bright eyes, and that small chinnari smile.\n\nMadhu ki aame evaro teliyadu.\nmotta modatisaari thanu aa ammayi sorry sorry aa chinnari ni choosaadu.",
+                    "image": "public/images/ch1/i2.png",
+                    "music": "public/music/ch1/m2.mp3"
+                },
+                {
+                    "pageNumber": 3,
+                    "content": "Kani aa one second lo tana heart lo oka **first unknown feeling** puttindi.\nOka chinna prema spark laga…\nOka soft excitement chest lo kalisindi.\nMadhu aa chinnaari ni choodadam first time anedi entha njm oo,\nthana heart lo vachina aa new feeling kooda first time annadi anthey njm.\n\nPriyanka Madhu ni gamaninchatledu.\nKani Madhu… aame joint wheel box lo kurchoni unde aa image ni…\nLife lo first time *feel* ayyadu.\n\nThat Gangamma Thirunala event madhya…\nSounds, lights, people — anni blur ayipoyayi.\nPriyanka matrame tana world lo clear ga undipoyindi.\n\nAla…\nRendu chinnari jeevithallo oka **silent beginning** start ayyindi.",
+                    "image": "public/images/ch1/i3.png",
+                    "music": "public/music/ch1/m3.mp3"
+                }
+            ]
+        },
+        {
+            "chapterId": 2,
+            "chapterTitle": "The Word That Changed Everything",
+            "pages": [
+                {
+                    "pageNumber": 1,
+                    "content": "Gangamma Thirunala event ayyaka, Madhu family tana **ammamma gaari illu** ki tirigi vachcharu.\nEvening breeze, chinna village sounds, andharkanna deep ga Madhu mind lo okkate repeating…\n\n**“Aame evaru? Malli eppudu chooshaanu…”**\n\nCot mida kurchoni, legs dangle chesthu, 10 years unna chinnodu laaga kaadu…\nOka deep thought lo undipoyadu.\nAa joint wheel lo chusina Priyanka image — rounds lo revolve avuthune undi.\n\nKaani…\nProblem okkate.\nVillage anta chusinappudu kuda aame dorakaledu.\n\nMadhu:\n**“Evaru aa ammayi… epudu mallli kanipistundi…”**\nAni inside lo muttering.",
+                    "image": "public/images/ch2/i1.png",
+                    "music": "public/music/ch2/m1.mp3"
+                },
+                {
+                    "pageNumber": 2,
+                    "content": "Appude…\nHouse door daggara okkasari chinna sound.\n\nPriyanka!\n\nAame tana peddamma illu ki means Madhu ammamma illu ki, happily running ga ochindi.\nBecause **Priyanka house, Madhu ammamma gari house pakkapakkane**.\n\nMadhu freeze ayipoyadu.\nHeart lo aa same spark.\nChinnari Priyanka matram emi gamaninchakunda inside ki vachchi, something take chesi velipoyindi.\n\nKaani Madhu…\nEyes full ga aame mida ne.\nOka moment lo tana world again silent.",
+                    "image": "public/images/ch2/i2.png",
+                    "music": "public/music/ch2/m2.mp3"
+                },
+                {
+                    "pageNumber": 3,
+                    "content": "Aame vellipoyina tharvatha, Madhu immediate ga tana mother ni adigadu:\n\n**“Amma… aa ammayi evaru?”**\n\nMother smile tho reply ichindi:\n\n**“Aame… nee cousin Priyanka. Mana relatives ee vallu.”**\n\nMadhu ears lo okkate echo ayyindi —\n\n**Cousin.**\n\nA word he never heard properly.\nA word he didn’t understand.\n\nSo he asked again, innocently:\n\n**“Amma… cousin ante enti?”**\n\nMother laughing ga, simple ga cheppindi:\n\n**“Ante… nuvvu pelli chesukoovadaniki paniki vachche varusa nanna...”**\n\nA sentence…\nMadhu heart lo bullet laga padindi.\n\nTana feeling Priyanka gurinchi kadu…\n**Aa cousin ane word gurinchi.**\nAdhi new, confusing, scary, unknown emotion.\n\nAt 10 years old…\nLove ante teliyadu.\nFeeling ante teliyadu.\nKaani aa roju, aa word tho life lo **first pain**, **first confusion**, **first spark** start ayyayi.\n\nThe story didn’t begin with love…\nIt began with **that one word**.\n\n**Cousin.**",
+                    "image": "public/images/ch2/i3.png",
+                    "music": "public/music/ch2/m3.mp3"
+                }
+            ]
+        },
+        {
+            "chapterId": 3,
+            "chapterTitle": "First Words, First Shyness",
+            "pages": [
+                {
+                    "pageNumber": 1,
+                    "content": "2012.\n\nExactly rendu years taruvāta… the same village lo,\n**Priyanka peddamma kuthuri (akka) marriage** jarugutondi.\nAnd the groom…\n**Madhu side nundi vadina**.\n\nOne single marriage…\nBut two small hearts ki **second meeting**.\n\nAppatiki Priyanka ki **9–10 years**,\nMadhu ki **12–13 years**.\nInnocence inkā undi…\nBut understanding konchem perigindi.\n\nIppudu rendu well aware —\n**“We are cousins.”**\n\nA knowledge valla…\nMatladadam ante okka strange shyness.",
+                    "image": "public/images/ch3/i1.png",
+                    "music": "public/music/ch3/m1.mp3"
+                },
+                {
+                    "pageNumber": 2,
+                    "content": "Because marriage lo relatives ante teasing masters:\n\n*“Ayyo ayyo… bava maradallu kalisi matladutunnaru… eppudu pelli?”*\n\nAla evaraina joke chesthe,\nPriyanka cheeks full red,\nMadhu eyes down…\nIddaru silent ga side ki vellipotharu.\n\nKani…\nShyness unna, conversation avoid cheyyaleni moments kuda vachchai.",
+                    "image": "public/images/ch3/i2.png",
+                    "music": "public/music/ch3/m2.mp3"
+                },
+                {
+                    "pageNumber": 3,
+                    "content": "Kitchen lo water thechukodaniki vellina Priyanka, plate tiskodaniki vachhina Madhu…\nAla okkasari face-to-face.\n\nPriyanka little smile…\nMadhu small laugh…\nTheir first natural **“Hi…”**.\n\nAame okkasari by mistake:\n\n**“Anna… water ivvava?”**\n\nMadhu immediate ga shock:\n\nPriyanka shy ga:\n\n**“Sorry… Madhu…”**\n\nAa word —\nMadhu.\nDirect, simple, soft.\nMadhu inside lo deep echo ayindi.\n\nMadhu kuda, aame ni **Priyanka** ane pilichevaadu.\nNo “cousin words”.\nNo “bava” or “mardal”.\nJust names.\nJust comfort.\n\nMarriage full busy, loud, crowded…\nKani rendu chinna hearts madhya, oka silent bond develop ayyindi.\n\nAla…\n**Chinna smiles, accidental talks, and shared shyness** tho\nChapter 3 quietly ended —\nFeelings little deeper…\nUnderstanding little stronger.",
+                    "image": "public/images/ch3/i3.png",
+                    "music": "public/music/ch3/m3.mp3"
+                }
+            ]
+        },
+        {
+            "chapterId": 4,
+            "chapterTitle": "Startings, Shyness & Silent Sparks (2014)",
+            "pages": [
+                {
+                    "pageNumber": 1,
+                    "content": "2014.\n\nRendu samvatsarāla tharvatha…\n**inkoka marriage**.\nThis time, Madhu side lo —\n**Peddamma koothuru wedding**.\n\nMadhu ippudu **14–15 years**,\nPriyanka **11–12 years**.\nAge perigina kooda…\nHearts lo innocence, feelings matram inkā fresh ga.\n\nMorning nunchi Madhu relatives tho full busy —\nLaughs, jokes, fun…\nNormal village marriage vibe.",
+                    "image": "public/images/ch4/i1.png",
+                    "music": "public/music/ch4/m1.mp3"
+                },
+                {
+                    "pageNumber": 2,
+                    "content": "Alaa…\nSuddenly, **Priyanka family** ochindi.\nNo warning… no hint…\nJust one sudden arrival.\n\nMadhu heart lo instant **tension strike**.\nAayana face immediate serious…\nLaughs stop…\nAnd he quietly slipped outside the house.\n\nInside, Priyanka happily greeting everyone:\n\n**“Ella unnaru andharu? Baga unnara?”**\n\nChinnari kaadhu ippudu…\nKonchem matured tone.\n\nAme greetings complete ayyaka…\nShe stepped outside alone…\n \nDirect ga Madhu degara ochi,\nSoft ga, confident ga:\n\n**“Baagunnava madhu…?”**\n\nMadhu inside lo heartbeats fast…\nKaani mouth lo matram short reply:\n\n**“Baane unnā….”**\n\nNo **“Nuv ella unnavu?”**,\nNo full conversation.\nJust shyness, just escape.",
+                    "image": "public/images/ch4/i2.png",
+                    "music": "public/music/ch4/m2.mp3"
+                },
+                {
+                    "pageNumber": 3,
+                    "content": "He walked away quickly.\nPriyanka face lo slight disappointment…\nKaani she didn’t show it much.\n\nBut marriages are long…\nHalf-day lo Matladakapovadam impossible kaadhu.\nBy evening…\nMadhu’s starting problem melt ayipoyindi.\n\nPriyanka again smiled at him,\nThis time Madhu smiled back properly.\n\nSlow ga…\nConversation pick up ayyindi.\nChinna jokes, small teasing…\nA pure comfort returned.\n\nAppude konni relatives chusi fun ga:\n\n**“Ado ado… bava maradallu matladutunnaru… okay okay, continue…”**\n\nMadhu cheeks light red…\nPriyanka laugh control chesthu…",
+                    "image": "public/images/ch4/i3.png",
+                    "music": "public/music/ch4/m3.mp3"
+                },
+                {
+                    "pageNumber": 4,
+                    "content": "Oka moment lo,\nCrowd lo confuse ayye time,\nMadhu casually **her hand hold chesadu**,\nJust to guide, just to say something…\n\nBut that small touch…\nBoth felt something deep.\nMadhu definitely felt it.\nPriyanka expression subtle…\nBut something moved in her heart too.\n\nAlaa…\n**Peddamma Koothuru marriage** kuda complete.\nBut what really completed was…\nChildhood strangers → shy cousins →\n**Two hearts slowly discovering each other.**\n\nChapter 4 ends with a soft glow…\nAnd a silent beginning of something big.",
+                    "image": "public/images/ch4/i4.png",
+                    "music": "public/music/ch4/m4.mp3"
+                }
+            ]
+        },
+        {
+            "chapterId": 5,
+            "chapterTitle": "The Rubik’s Cube Moment (2018)",
+            "pages": [
+                {
+                    "pageNumber": 1,
+                    "content": "2018 year.\nMadhu ki appudu **18–19 years** untayi.\nPriyanka ki around **15–16 years**.\n\nIppatiki iddaru chinna pillalu kaadhu.\nKonni feelings ardham ayyei… konni shyness, attraction…\nmari relatives mundu konchem careful ga behave cheyyalani telisindi.\n\nAa samvatsaram Priyanka intlo small celebration plan chesaru.\nTana nanna first floor kattadam complete ayyindi kabatti,\nokka chinna party arrange chesaru.\nMadhu family kuda invite ayyindi.\n\nMadhu akkada ki vellaga atmosphere konchem different ga anipinchindi.\nIddaru ippudu normal ga mataadey stage ki ochchesaru,\nshyness thaggipotunnadi…\nkaani lopala okka light blush, okka silent spark iddarlo untunde.",
+                    "image": "public/images/ch5/i1.png",
+                    "music": "public/music/ch5/m1.mp3"
+                },
+                {
+                    "pageNumber": 2,
+                    "content": "Kids pakkaki kadili kadili aadutunte,\nelders pakkana matladutunte,\nakkada jarigina **small moment** matram both heart lo deep ga undipoyindi...\n\n**Rubik’s Cube moment.**\n\nMadhu tana **3×3 Rubik’s Cube** tiskoni vachadu.\nA recent ga solve chesi nerchukunna hobby.\n\nPriyanka first time adhi solve chesthunna Madhu ni chusi\nokka surprise + admiration look ichindi.\n\n“**Nuvvu idi solve chesthava?**” ani wide eyes tho adigindi.\n\nMadhu soft ga navvadu:\n“**Haa… ippudu niku kuda nerpista.**”\n\nChaalu… aa oka sentence tho atmosphere change aipoyindi.",
+                    "image": "public/images/ch5/i2.png",
+                    "music": "public/music/ch5/m2.mp3"
+                },
+                {
+                    "pageNumber": 3,
+                    "content": "Priyanka tana chotu nunchi move ayi,\nMadhu daggara **very close** ga kurchundi.\nA first closeness…\nbut natural ga, reason Cube kabatti.\n\nMadhu step by step cheppadam start chesadu—\ncolors ela match cheyyali,\nrotations ela cheyyali,\npatterns ela gurthupettukovali.\n\nTeaching lopala iddari hands konni sarlu touch ayayi…\nempty ga, accidental ga…\nkaani feelings lo intha empty kaaledu.\n\nRelatives andariki iddaru **“Rubik’s Cube ne chustunnaru”** anipinchadam vallaa,\nno teasing… no drama.\nMadhu ki Priyanka tho inka ekkuva time dorikindi.\nPriyanka genuine ga interest chupinchindi.\nMadhu pakkanunchi levakunda solve cheyadaniki try chesthunde,\nMadhu ki adi nachichindi.",
+                    "image": "public/images/ch5/i3.png",
+                    "music": "public/music/ch5/m3.mp3"
+                },
+                {
+                    "pageNumber": 4,
+                    "content": "Idi iddari life lo **first long time together**.\nLaughs, teasing, small fights…\nMadhu chinnaga tease chesthe\nPriyanka “Peh!” ani light ga hit chesthundi.\n\nAa chemistry slow gaa… silent gaa…\nheart lo settle ayipotundi rendu vaallaki.\n\nEvent ayyaka, Priyanka already konni steps solve chesthundani proud ga andariki chupinchindi.\nMadhu pakkana nunchi soft smile tho chusthune unnadu.\nA smile… Priyanka kosame.\n\nAa party ayipoyindi...\nkani **Rubik’s Cube moment** matram iddari life lo permanent ayipoyindi.",
+                    "image": "public/images/ch5/i4.png",
+                    "music": "public/music/ch5/m4.mp3"
+                }
+            ]
+        },
+        {
+            "chapterId": 6,
+            "chapterTitle": "The Truth That Hurt (2018)",
+            "pages": [
+                {
+                    "pageNumber": 1,
+                    "content": "*The moment Madhu realised love also has rules… painful rules.*\n\n2018 year.\nMadhu ki appudu **18 years** daggara age.\nLife lo oka important phase —\nMadhu **own sister marriage matches** start ayyayi.\n\nHouse lo peddalu, relatives, panulu…\nmatches choodadam, gothralu verify cheyyadam,\nhoroscopes, caste subdivision — anni rounds nadusthunnayi.\n\nA time lo Madhu life ni completely marchipettese\n**one truth** first time telisindi…",
+                    "image": "public/images/ch6/i1.png",
+                    "music": "public/music/ch6/m1.mp3"
+                },
+                {
+                    "pageNumber": 2,
+                    "content": "\n\n**Modallu – Thirumandarallu**\n\nMadhu caste lo okka **sub-caste system** undedi.\nTwo groups:\n\n* **Modallu**\n* **Thirumandarallu**\n\nAnd rule enti ante…\n*Thirumandarallu → must marry Thirumandarallu.*\n*Modallu → must marry Modallu.*\n\nCross marriage okay kaadu…\nnot legally — but emotionally, culturally, mythically…\nPeople strongly believe it.",
+                    "image": "public/images/ch6/i2.png",
+                    "music": "public/music/ch6/m2.mp3"
+                },
+                {
+                    "pageNumber": 3,
+                    "content": "Madhu family lo andariki telisina rule idi.\nKaani Madhu ki matram **2018–2019** lo maatrame\nclear ga strike ayyindi —\ntana sister marriage match conversations valla.\n\nMadhu himself is **Thirumandarallu**.\nTana sister kuda ade.\n\nSo matches search chesthunna peddalu\nconstant ga cheptu unnar:\n\n**“Thirumandarallu vallatone match choodali…”**\n\nMadhu silent ga vinnadu…\nkani heart lo okka shock laaga feel ayyadu.\n\n\n\n**Priyanka is Modallu.**\n\nAa moment lone\nMadhu mind lo flash ayyindi\n**only one face… Priyanka.**\n\nYears nunchi feelings unde…\nvalalo silent understanding unde…\nkani oka official dream kuda kaaledu.\nHe was too young earlier.\n\nBut ippudu…\nrules vinagane\nheart lo okka soft crack laaga kaligindi.\n\nMadhu thought to himself:\n\n**“Nenu Thirumandarallu…\nAame Modallu…\nAnte… nenu eligible kaadhaa?”**\n\nStatus difference inka pain meedha sare…\nPriyanka family koncham rich…\nMadhu family simple middle.\n\nAlso **sub-caste difference**?\nAdi ayithe break cheyyadaniki kastam,\nespecially village families lo.\n\nMadhu kooda ardham chesukunnadu…\n*Ee feeling ki future unda?\nLedu?*",
+                    "image": "public/images/ch6/i3.png",
+                    "music": "public/music/ch6/m3.mp3"
+                },
+                {
+                    "pageNumber": 4,
+                    "content": "**He didn’t kill the feeling… he just locked it**\n\nMadhu heart lo Priyanka gurinchi\noka soft love feeling already undedi.\nChildhood nundi slow ga peri ayina affection.\n\nKaani ippudu\n**he felt he cannot reach her.**\nNot because she doesn’t like him…\nbut because **rules** don’t allow it.\n\nSo Madhu chesina only thing:\n\n**He didn’t delete the feeling.\nHe didn’t express it.\nHe just placed it gently inside his heart…\nand locked it in silence.**\n\nPriyanka ki teliyadu…\nMadhu matram aalochinchadu…\n\nIlaage Chapter 6 end ayipoyindi —\nokka chinna truth,\nMadhu heart lo pedda silent pain.",
+                    "image": "public/images/ch6/i4.png",
+                    "music": "public/music/ch6/m4.mp3"
+                }
+            ]
+        },
+        {
+            "chapterId": 7,
+            "chapterTitle": "The Second Priyanka (2018–2019)",
+            "pages": [
+                {
+                    "pageNumber": 1,
+                    "content": "*Sometimes destiny shows the same name twice… just to remind you what you truly want.*\n\nIntermediate 2nd year.\nMadhu life lo oka new phase —\nclasses, exams, friends, tuition…\nand silent ga heart lo inka **original Priyanka** memories undeyi.\n\nBut oka roju…\nclass lo roll number call chesthunnaru.\n\n**“Priyanka…”**\n\nA name vintane\nMadhu heart okka second beat miss ayindi.\nInstant ga aa name lo\n**childhood Priyanka** reflection kanipinchindi.",
+                    "image": "public/images/ch7/i1.png",
+                    "music": "public/music/ch7/m1.mp3"
+                },
+                {
+                    "pageNumber": 2,
+                    "content": "Aame kaadu…\nkotha ammayi.\nClassmate.\nChala calm, simple, decent girl.\n\nKaani **that name**…\nthat name alone\nMadhu lo malli soft feeling ni start chesindi.\n\n\n\n**He didn’t love the girl… he loved the name**\n\nMadhu himself ardam kaledu initially.\nWhy is he feeling something?\nIs it attraction?\nIs it real love?\nOr is it just the *name* haunting him?",
+                    "image": "public/images/ch7/i2.png",
+                    "music": "public/music/ch7/m2.mp3"
+                },
+                {
+                    "pageNumber": 3,
+                    "content": "Truth simple:\n**Madhu wants Priyanka…\nbut he knows he can never marry the real Priyanka.\nSo his heart started loving the name itself.**\n\nIlaa oka innocent emotional confusion lo\nMadhu slow ga\n**second Priyanka** meeda feeling develop chesadu.\n\n\n\n**Everything matched… except the main thing**\n\nOka point lo, Madhu chala explore chesadu:\n\n* Aame **Thirumandarallu**\n* Same caste\n* Same family background\n* Good behaviour\n* Good heart\n\nLiterally **perfect match** ani anipinchindi.\nFate telling him:\n\n**“This Priyanka is allowed…\n…maybe this is your destiny.”**\n\nMadhu heart lo confidence vacchindi.\nIppudu love cheppalani decide chesadu.",
+                    "image": "public/images/ch7/i3.png",
+                    "music": "public/music/ch7/m3.mp3"
+                },
+                {
+                    "pageNumber": 4,
+                    "content": "**The truth hits softly, not harshly**\n\nOka gentle moment lo,\nMadhu tana feelings anni genuine ga share chesadu.\n\nAame chinna silent smile tho reply ichindi:\n\n**“Madhu…\nNenu already okarina love lo unna…\nNenu ninnu respect chesthanu…\nmanam friends ga continue avvachu.”**\n\nAdhi harsh ga kaadu,\nsoft, respectful, kind rejection.\n\nA moment lo Madhu heart lo\nchinna crack ayyindi…\nkani break kaaledu.\n\nReason?\n\nBecause Madhu knew\n**this was not real love…\nthis was the shadow of another Priyanka.**",
+                    "image": "public/images/ch7/i4.png",
+                    "music": "public/music/ch7/m4.mp3"
+                },
+                {
+                    "pageNumber": 5,
+                    "content": "**They didn’t become lovers… but became very good friends**\n\nFrom that day\nlove lekunda\nokka pure friendship start ayyindi.\n\nLaughing,\nhelping in studies,\ngroup chats…\nanni normal ayyayi.\n\nMadhu respect chesadu.\nAame honesty appreciate chesadu.\n\nYears later,\naame tana love tho **marriage** ayyindi.\nMadhu felt happy for her,\nbecause she deserved that happiness.\n\n\n\n**A small chapter closed…\n\nbut the real story still waiting.**\n\nEe chapter Madhu ki oka lesson ichindi:\n\n**“Real love doesn’t get replaced.\nEven with the same name.”**\n\nAnd deep inside…\nthe *childhood Priyanka* feeling —\nthe true seed planted in 2010 —\nwas still quietly alive.",
+                    "image": "public/images/ch7/i5.png",
+                    "music": "public/music/ch7/m5.mp3"
+                }
+            ]
+        },
+        {
+            "chapterId": 8,
+            "chapterTitle": "Silent Tears (2020)",
+            "pages": [
+                {
+                    "pageNumber": 1,
+                    "content": "2020 year.\nMadhu ki **20 years**, Priyanka ki **17 years**.\nIddaru ippudu **love ni, feelings ni, maturity ni, ardham chesukunnaru**.\nChildhood innocence kadhu… ippudu subtle emotions, unspoken thoughts, silent glances.\n\nAa samvatsaram, Madhu **tana sister marriage preparation lo busy**.\nPlanning, arrangements, money work…\nchala hectic schedule.",
+                    "image": "public/images/ch8/i1.png",
+                    "music": "public/music/ch8/m1.mp3"
+                },
+                {
+                    "pageNumber": 2,
+                    "content": "Priyanka initially **marriage ki vachindi kaadu**.\nAame matrame last main event ki vellindi.\nTotal ga 3–4 hours matrame akkada undi.\n\nMadhu busy ga andariki instructions ivvadam, managing, running around…\nAame silent ga corner lo undi.\n\nSuddenly… Madhu **aame ni chusi**…\nthanu edusthundi ani gamaninchaadu..\n\nAdi **Madhu kosam kaadu…**\nAdi ardham avvaledu.\nAsal priyanka madhu ni choodaledu",
+                    "image": "public/images/ch8/i2.png",
+                    "music": "public/music/ch8/m2.mp3"
+                },
+                {
+                    "pageNumber": 3,
+                    "content": "**“Ela… why she is crying? Emi ayindi?”**\nThanaki ardham kaaledu…\nAame face lo chinna princess-like sadness, distant ga feel ayi…\nMadhu **approach cheyyalani try chesadu**.\nKaani ippudu…\nhe realized: **she is like a princess… and I am not suitable… cannot reach… cannot touch that world.**\n\nSo Madhu just stood, **silent observer**.\nHe watched her…\nbut **did not move**,\ndid not question,\ndid not interfere.",
+                    "image": "public/images/ch8/i3.png",
+                    "music": "public/music/ch8/m3.mp3"
+                },
+                {
+                    "pageNumber": 4,
+                    "content": "Aame **unknowingly crying… not because of Madhu**,\nkaani Madhu heart lo subtle tension, worry, curiosity remain ayi.\n\nAfter some time…\naame **disappeared from the event** quietly.\n\nMadhu returned to his work…\nbusy managing sister’s marriage…\nbut heart lo **oka chinna soft wound** undi.\n\nIlaage Chapter 8 end ayiindi—\n**silent glances, unspoken feelings, distance, and soft heartbreak**.",
+                    "image": "public/images/ch8/i4.png",
+                    "music": "public/music/ch8/m4.mp3"
+                }
+            ]
+        },
+        {
+            "chapterId": 9,
+            "chapterTitle": "The Digital Spark and the Pause (2022–2023)",
+            "pages": [
+                {
+                    "pageNumber": 1,
+                    "content": "2022 year, September 13th.\nMadhu **22 years old**, Priyanka **19 years old**.\nMadhu Hyderabad lo…\n**software engineering coaching**, computer science studies… busy with life, future planning.\n\nAa roju, Madhu phone check chesthunnadu…\nInstagram app open chesadu, Reels upload, stories… curiosity tho scroll chesthunnadu.\n\nSuddenly, **Priyanka account** kanipinchi… (priyankavannam1)\nheart **soft ga jump ayyindi**.\nMadhu **direct ga follow chesadu**,\nluckily Priyanka **accept chesindi**.",
+                    "image": "public/images/ch9/i1.png",
+                    "music": "public/music/ch9/m1.mp3"
+                },
+                {
+                    "pageNumber": 2,
+                    "content": "Madhu small message chesaadu:\n**“Hi”**\n\nAnd **connection start ayyindi…**\nslow ga, easy ga…\nfirst month, second month…\nlight chat, casual talk, laughs, memories…\nchildhood memories come back… nostalgia soft ga spread ayyindi.",
+                    "image": "public/images/ch9/i2.png",
+                    "music": "public/music/ch9/m2.mp3"
+                },
+                {
+                    "pageNumber": 3,
+                    "content": "**The Agreement**\n\nPriyanka matladindi:\n**“Madhu… love story kaadu…\nMana caste difference undi…\nNaaku marriage decisions father decide chestaru…\nSo, future lo marriage possibility ledhu…\nOnly friendship matrame maintain cheyyali.”**\n\nMadhu respect chesadu, accept chesadu…\nheart lo subtle pain, kani respect intact.\n\n\n\n**Friendship Becomes More… Slowly**\n\nTwo months, three months…\nchat deepen ayyindi.\nHeart open, personal questions, emotional sharing…\nsoft love hints start ayyayi.\nPriyanka and Madhu **cousins,** but connection strong, heartfelt…\nsilent affection start ayyindi.\nPriyanka Madhu ni **Bava** ani pilavadam...\nMadhu Priyanka ni **Bujji** ani pilavadam\n\nThen, January 7th — Priyanka birthday.\nMadhu **beautiful gift ichadu**.\nAlanti gift evaru ippati varuku thana gf ki ichchivundadu.\nPriyanka **very happy, emotional**, deep love feelings surface.\nInstagram chat theme **love mood ki change ayi…**\nfeeling start slowly growing stronger.",
+                    "image": "public/images/ch9/i3.png",
+                    "music": "public/music/ch9/m3.mp3"
+                },
+                {
+                    "pageNumber": 4,
+                    "content": "**The Pause**\n\nKaani, **February 2023** lo Priyanka cautious ayyindi.\nAame message istundi:\n\n**“Madhu… I think we are doing mistake…\nOur chat is slowly becoming lover-like…\nI cannot continue like this…\nWe should stop… leave this…\nSorry, please respect me.”**\n\nMadhu **respectfully accept chesadu**.\nPain soft, but acceptable…\nPriyanka ki kuda chinna hurt,\nboth silent… but understanding.\n\nIlaage, February 2023 lo **temporary separation** start ayi…\nsilent pause in their connection,\nheart lo soft ache,\nbut memory and feelings still alive.",
+                    "image": "public/images/ch9/i4.png",
+                    "music": "public/music/ch9/m4.mp3"
+                }
+            ]
+        },
+        {
+            "chapterId": 10,
+            "chapterTitle": "Reunion and Rekindled Feelings (2024)",
+            "pages": [
+                {
+                    "pageNumber": 1,
+                    "content": "2023, mid-year.\n\nSome months later, **job start ayina tarvata**,\nMadhu **first time message chesadu**.\nPriyanka **same reply istundi**:\n**“Please, message cheyyaku…”**\nMadhu **silent ga accept chesadu**… nothing more.",
+                    "image": "public/images/ch10/i1.png",
+                    "music": "public/music/ch10/m1.mp3"
+                },
+                {
+                    "pageNumber": 2,
+                    "content": "**Slow Interest Rekindled**\n\n2024, mid-year, \nMadhu, after a long time, **Priyanka village ki vachadu**.\nYears pass ayyi, childhood and teen memories mind lo…\nheart lo still soft feelings undi.",
+                    "image": "public/images/ch10/i2.png",
+                    "music": "public/music/ch10/m2.mp3"
+                },
+                {
+                    "pageNumber": 3,
+                    "content": "Priyanka distance lo undi… but **interest thodu grow ayyindi**.\nLively ga Madhu ni chusi, heart lo curiosity… subtle emotions slowly surface.\n\nEvent complete ayyaka, Madhu **house ki return ayyadu**,\nphone check chesadu…\n2 days tarvata, **first message Priyanka nundi**:\n\n**“Hlo”**\nNormal, light, casual chat…\nno deep late-night chatting, no pressure…\njust soft playful **bond rekindle**.\n\nMadhu **shock ayyadu**…\nPriyanka normal ga, playful ga… chatting start chesindi.\nSmall words… soft laughs…\nheart connection **slowly rekindle**.",
+                    "image": "public/images/ch10/i3.png",
+                    "music": "public/music/ch10/m3.mp3"
+                },
+                {
+                    "pageNumber": 4,
+                    "content": "**Increasing Bond**\n\nSome months, few more visits…\nMadhu repeated Priyanka village visits…\nPriyanka gradually **more interest show chesindi**,\nlively ga, subtly… softly…\nshe started chatting more frequently, light playful tone…\nsoft teasing, smiles in texts…\n\nIlaage, 2024 lo **Priyanka – Madhu connection gradually rekindle ayi**,\nchatting **increase ayi**,\nbond strong but soft, natural, effortless.",
+                    "image": "public/images/ch10/i4.png",
+                    "music": "public/music/ch10/m4.mp3"
+                }
+            ]
+        },
+        {
+            "chapterId": 11,
+            "chapterTitle": "Filtered Love Begins (May 2025)",
+            "pages": [
+                {
+                    "pageNumber": 1,
+                    "content": "2025, May month.\nMadhu **Priyanka village ki vachadu**…\nparty, dinner purpose tho.\n\nDinner lo, **Priyanka tho soft playful interaction**…\nlight teasing, smiles, laughter…\nsmall moments, heart connection grow ayyindi…\nbut Madhu **feelings still restrained**.\nHe has feelings… kani **marriage, future thoughts, serious plans… not yet**.\nHeart lo soft love, but **filtered**… careful, controlled.\n\n\n\n**The Marriage Question**\n\nSome days tarvata, Priyanka **direct ga adigindi**:\n**“Bava… shall we marry?”**\n\nMadhu **shock ayyadu**…\nsoft hesitation…\nheart lo emotions, practical realities kuda mind lo:\n\n* **Different sub-caste**\n* **Financial gap** (Priyanka family richer than Madhu)\n* **Father approval issue**\n\nMadhu **explained softly**:\n**“Bujji… idhi easy kaadu…\nMana caste difference, family differences…\nFuture lo complications vachayi…”**\n\nPriyanka **understood, smiled softly**, explained:\n**“Neeku growth kavali…\nSalary, position improve chesuko…\nIlaage, careful planning… taruvata easy ga marry chesukovachu…\nCaste issue minor ga ignore cheyyachu…\nPatience tho step by step cheyyali…\nBava… actual love start chestham…\nKaani filtered love…\nAny problem like father rejection unte…\nWe will leave, no pressure…\nNeither devadas, neither dull…\nAlways happy, normal life maintain…\nStep by step… careful ga…”**\n\nMadhu **heart fully accept chesadu**…\nsoft filtered love start ayyindi.\nThis is **real love**, careful, mature, but emotional…\nMutual understanding, respect, and patience lo strong foundation build ayyindi.",
+                    "image": "public/images/ch11/i1.png",
+                    "music": "public/music/ch11/m1.mp3"
+                }
+            ]
+        },
+        {
+            "chapterId": 12,
+            "chapterTitle": "First Hug and True Love (June 2025)",
+            "pages": [
+                {
+                    "pageNumber": 1,
+                    "content": "**June 7th, 2025.**\nPriyanka **first time Madhu house ki vachindi**, summer holidays and some event reason tho.\n\nFrom the first step, **jokes, laughter, teasing** start ayyindi.\nConversation lively, playful…\n**Filtered love, hesitation—gone.**\nNow, **pure, honest emotions start**, heart to heart.",
+                    "image": "public/images/ch12/i1.png",
+                    "music": "public/music/ch12/m1.mp3"
+                },
+                {
+                    "pageNumber": 2,
+                    "content": "Even if family members nearby unte, **they will chat privately, softly**, silent smiles and glances…\nAnd whenever alone, **full expression of love**—no hiding, no restraint.",
+                    "image": "public/images/ch12/i2.png",
+                    "music": "public/music/ch12/m2.mp3"
+                },
+                {
+                    "pageNumber": 3,
+                    "content": "\n\n**June 8th – First Hug**\n\nNext day, **June 8th**, first hug.\nThat hug **changed everything**.\nMadhu and Priyanka realized,\n**“Idhi real love… heart to heart… nothing hidden.”**\n\nAfter hug, Priyanka **vachindi village ki**, kani heart lo love fully bloom ayyindi.\nBoth started expressing:\n**“I love you”**… **“I love you too”**…\nSharing love emojis, playful messages, future thoughts.",
+                    "image": "public/images/ch12/i3.png",
+                    "music": "public/music/ch12/m3.mp3"
+                },
+                {
+                    "pageNumber": 4,
+                    "content": "\n\n**Talking About Future**\n\n* “If we marry, how we will treat each other?”\n* “Children names… future planning… dreams…”\n\nPriyanka **curious and full of love**,\nMadhu **heart full of emotion but tension**:\n**“What if your father does not accept me? How to convince him?”**",
+                    "image": "public/images/ch12/i4.png",
+                    "music": "public/music/ch12/m4.mp3"
+                },
+                {
+                    "pageNumber": 5,
+                    "content": "Madhu expressed **deep feelings**:\n**“Bujji… I want to marry you…\nI love you only…\nWe will figure out everything else…**\n\nPriyanka **gets emotional**, heart melts…\n**True love starts—pure, fearless, and deep.**",
+                    "image": "public/images/ch12/i5.png",
+                    "music": "public/music/ch12/m5.mp3"
+                }
+            ]
+        },
+        {
+            "chapterId": 13,
+            "chapterTitle": "First Kiss and Rings (Sep 13th 2025)",
+            "pages": [
+                {
+                    "pageNumber": 1,
+                    "content": "Some months later, **Madhu Priyanka village ki vachadu**.\nThat visit was **very special… emotional… heart-melting**.\nBecause this is thier **3rd aniversary 😍❤️💕😘**",
+                    "image": "public/images/ch13/i1.png",
+                    "music": "public/music/ch13/m1.mp3"
+                },
+                {
+                    "pageNumber": 2,
+                    "content": "**First kiss happened.**",
+                    "image": "public/images/ch13/i2.png",
+                    "music": "public/music/ch13/m2.mp3"
+                },
+                {
+                    "pageNumber": 3,
+                    "content": "They **shared gifts**—like rings.",
+                    "image": "public/images/ch13/i3.png",
+                    "music": "public/music/ch13/m3.mp3"
+                },
+                {
+                    "pageNumber": 4,
+                    "content": "Madhu kooda Priyanka meda lo **chain** vasaadu.\n\n\n\n**The Hug and Heartfelt Words**\n\nAla Priyanka medalo chain vesthunnappudu, **Priyanka hugged Madhu directly**.\nMadhu **felt overwhelmed**—heart totally melted.\n\nHe asked softly:\n**“Bujji… Enduku hug chesukuntunnav chain vesthunte?”**\n\nPriyanka smiled and said:\n**“Naaki endukooo nuvvu thaali kaduthunnattu anipisthundi…\nWaste fellow! urike chain veyadam kaadu nuvvu kooda dinni feel avvu…\nI love you forever bava.”**\n\nAnd then… **she kissed him softly**.\nShe whispered:\n**“I want to be with you… always…”**\n\n\n\n**Effect on Madhu**",
+                    "image": "public/images/ch13/i4.png",
+                    "music": "public/music/ch13/m4.mp3"
+                },
+                {
+                    "pageNumber": 5,
+                    "content": "Appudu **changed everything again**.\nLove became **even more pure, more deep, more fearless**.\nMadhu’s heart was fully hers now,\nand he realized **Inka thaggedele, Edaina gaani choosukundam**.",
+                    "image": "public/images/ch13/i5.png",
+                    "music": "public/music/ch13/m5.mp3"
+                }
+            ]
+        },
+        {
+            "chapterId": 14,
+            "chapterTitle": "The Silent Sacrifice (Turning Point)",
+            "pages": [
+                {
+                    "pageNumber": 1,
+                    "content": "**Bujji (Priyanka)** and **Kanna (Madhu)** madhya love **peak stage** ki reach ayindi.\n\nIppudu:\n\n* Names kaadu… **Bujji & Kanna**\n* Full love, full care\n* Future dreams\n* Daily chatting\n* Emojis, feelings, everything\n\nThey are **deeply in love** ❤️\n\n\n\n**Two Sides of Madhu**\n\nPriyanka Madhu tho unnapudu:\n\n* Madhu baaga navvutadu\n* Jokes vestadu\n* Love express chestadu\n* Full happy ga untadu",
+                    "image": "public/images/ch14/i1.png",
+                    "music": "public/music/ch14/m1.mp3"
+                },
+                {
+                    "pageNumber": 2,
+                    "content": "**But…**\n\nPriyanka lenappudu,\nMadhu okkadiga unnapudu,\nhis mind slowly starts hurting him.\n\nHe thinks:\n\n* *“Am I really correct for her?”*\n* *“She comes from a very rich family…”*\n* *“Nenu tanaki future lo happiness ivvagalana?”*\n\nSalary gurinchi:\n\n* *“Ippudu 70k earn chestunna”*\n* *“Future lo 1L or 1.5L vachina…”*\n* *“Still, will she be happy?”*\n\nFamily difference gurinchi fear:\n\n* Rich family\n* Lifestyle difference\n\n\n\n**A Painful Decision**\n\nChaala deep pain tho,\nMadhu oka decision tiskuntadu.\n\n> **“Love ante compulsory marriage kaadu…”**\n> **“Love ante tana happiness…”**\n\nHe convinces himself:\n\n* *“Her father will find a perfect man for her”*\n* *“She will be more happy without me”*\n* *“Naa tho unte maybe initial ga happy…”*\n* *“Later struggles untayi emo”*\n\nSo finally,\n**Madhu decides to sacrifice his love.**",
+                    "image": "public/images/ch14/i2.png",
+                    "music": "public/music/ch14/m2.mp3"
+                },
+                {
+                    "pageNumber": 3,
+                    "content": "**Fake Truth – Chat Lo Start**\n\nMadhu decide ayyadu:\n👉 **She should leave me. Only when she hate me.**\n\nSo chat lo slowly start chestadu.\n\n**Madhu:**\n\n> *“Bujji… naku konni bad habits unnayi.”*\n> *“I drink… I smoke.”*\n> *“Earlier nenu neeki cheppaledu.”*\n\n**Priyanka shocked… but replies immediately:**\n\n**Priyanka:**\n\n> *“Enduku abaddam cheppav?”*\n> *“It’s okay kannaaa.”*\n> *“Ee reason kosam nannu vadilestava?”*\n> *“Shut up.”*\n> *“Ippatinunchi thagaku anthey kada.”*\n\n**Madhu:**\n\n> *“Nenu vatini vadalalenu.”*\n> *“I am addicted.”*\n\n**Priyanka (still loving):**\n\n> *“Hmmm…”*\n> *“Health paadavuthundi kannaa…”*\n> *“Okay… Sare le chinna chinna ga maanedduvule..”*\n> *“But don’t leave me for this.”*\n\n\n\n**The Cruel Lie (Chat Turning Point)**\n\nMadhu heart inka break avtundi.\n*“Bad habits tho kuda thanu accept chestundi…”*\n\nSo he types the **most dangerous lie**.\n\n**Madhu:**\n\n> *“Naku earlier physical relationships kooda unnayi.”*\n> *“Intermediate time lo.”*\n> *“Nenu nee life disturb cheyyalenu.”*\n> *“You deserve better.”*\n\n**Priyanka:**\n\n> *“Kannaa Apaddaalu cheppaku.”*\n> *“Nenu ninnu blindly trust chesanu.”*\n> *“Nuvvu alanti vaadivi kaadu.”*\n\n**Madhu:**\n\n> *“Nenu alantivaadine...”*\n\nala madhu serious avuthaadu\n\nEe messages chadivina taruvata,\n**Priyanka completely shocked.**\n\nKonni seconds typing indicator…\nTarvata okate message.\n\n**Priyanka:**\n\n> *“You cheated me.”*\n> *“Nenu ninnu blindly trust chesanu.”*\n\nTarvata…\n**She stops replying.**\nNo messages.\nNo typing.\nJust silence.",
+                    "image": "public/images/ch14/i3.png",
+                    "music": "public/music/ch14/m3.mp3"
+                },
+                {
+                    "pageNumber": 4,
+                    "content": "**Two Hearts, Same Pain**\n\nChat silent ayyaka:\n\n* **Madhu breaks completely**\n\n  * Guilt\n  * Crying\n  * Self-hatred\n  * Love sacrifice pain\n\n* **Priyanka also cries alone**\n\n  * Shock\n  * Betrayal\n  * Broken trust\n  * Still loving him\n\nBoth are crying.\nBoth are loving.\nBut **both are broken.**\n\n\n**End of Chapter 14**\n\n💔 Love without hate\n💔 Sacrifice without truth\n💔 Silence louder than words",
+                    "image": "public/images/ch14/i4.png",
+                    "music": "public/music/ch14/m4.mp3"
+                }
+            ]
+        },
+        {
+            "chapterId": 15,
+            "chapterTitle": "The Final Push (October 2025)",
+            "pages": [
+                {
+                    "pageNumber": 1,
+                    "content": "**2025 October 7th.**\n\nChat silent ayyi **two days** complete ayyai.\n\nMadhu (Kanna) phone chudatam kuda manesadu.\nGuilt, pain, self-hate tho silent ga undipoyadu.\n\n\n\n**After Two Days – Priyanka Messages Again**\n\nSuddenly…\nNotification.\n\n**Message from Bujji.**\n\nMadhu heart skip ayindi.\n\n**Priyanka:**\n\n> *“Kanna…”*\n> *“Sorry.”*\n> *“It’s okay.”*\n> *“Past lo nuvvu em chesina parledhu.”*\n> *“Nuvvu ippudu naatho unnaavu kada.”*\n> *“Adhi chaalu.”*\n> *“Past is past.”*\n> *“Nannu vadileyaku.”*\n> *“Please marry me.”*\n> *“Nenu ninnu vadilalenu.”*\n> *“Nuvve naa life.”*\n\nEe messages chadivina ventane…\n**Madhu breaks down again.**\n\nTears…\nHands shaking…\nMind blank.\n\n*“Ilaanti truth telisina taruvata kuda…”*\n*“Still she loves me?”*",
+                    "image": "public/images/ch15/i1.png",
+                    "music": "public/music/ch15/m1.mp3"
+                },
+                {
+                    "pageNumber": 2,
+                    "content": "**Madhu’s Fear Turns Cruel**\n\nMadhu mind lo okate thought:\n\n> *“She will never leave me unless I break her completely.”*\n\nSo…\nHe decides to become **cruel on purpose**.",
+                    "image": "public/images/ch15/i2.png",
+                    "music": "public/music/ch15/m2.mp3"
+                },
+                {
+                    "pageNumber": 3,
+                    "content": "**Madhu Replies – Rudely (On Purpose)**\n\n**Madhu:**\n\n> *“Bujji… past is past ani nuvvu antunnav.”*\n> *“Ante enti artham ?”*\n> *“Ante nuvvu kuda past lo chaala mandi tho tirigav kada.”*\n> *“Anduke le past is past antunnav.”*\n> *“Naku doubts vastunnayi.”*\n\nPriyanka stunned.\n\n**Priyanka:**\n\n> *“What are you saying?”*\n> *“Nenu alanti ammayini kaadu.”*\n> *“Nuvvu nannu ela doubt chestunnav?”*\n\n**Madhu (cold & repeated):**\n\n> *“Nenu doubts feel avtunna.”*\n> *“Nuvvu kuda bad person ey.”*\n> *“Naku clarity ledu.”*\n\n\n\n**Priyanka Breaks Completely**\n\nEyes full tears.\nHands shaking while typing.\n\n**Priyanka:**\n\n> *“Nenu ninnu true ga love chesanu.”*\n> *“Nuvvu nannu ala matladutunnav?”*\n> *“I trusted you.”*\n\nBut Madhu listens to nothing.\n\nHe keeps repeating the same lines.\nNo explanation.\nNo softness.",
+                    "image": "public/images/ch15/i3.png",
+                    "music": "public/music/ch15/m3.mp3"
+                },
+                {
+                    "pageNumber": 4,
+                    "content": "**The Final Decision**\n\nFinally…\nPriyanka heart **completely breaks**.\n\nShe types the last message.\n\n**Priyanka:**\n\n> *“Enough.”*\n> *“I can’t do this anymore.”*\n> *“Let’s stop.”*\n\nMadhu replies immediately.\n\n**Madhu:**\n\n> *“Okay.”*\n> *“Let’s break up.”*\n\n\n\n**End of Everything**\n\nChat ends.\nNo blocks.\nNo last seen drama.\nJust **silence**.\n\nTwo people who loved deeply…\nDestroyed each other to protect each other.\n\n* **Priyanka** – broken, confused, empty\n* **Madhu** – alive, but dead inside\n\n\n\n**End of Chapter 15**\n\n💔 Love sacrificed\n💔 Truth hidden\n💔 Breakup done on purpose",
+                    "image": "public/images/ch15/i4.png",
+                    "music": "public/music/ch15/m4.mp3"
+                }
+            ]
+        },
+        {
+            "chapterId": 16,
+            "chapterTitle": "The Love That Refused to Die (October–November 2025)",
+            "pages": [
+                {
+                    "pageNumber": 1,
+                    "content": "Breakup ayyaka…\nSilence vachindi.\n\nBut **love matram alaane undi**.\n\n\n\n**One Week Later**\n\nBreakup ayyi **one week** complete ayindi.\n\nSuddenly…\nNotification.\n\n**Message from Priyanka.**\n\nMadhu chusadu.\nReply ivvaledu.\n\n**Priyanka:**\n\n> *“Kanna…”*\n> *“Nenu alanti ammayi kaadu.”*\n> *“Please nannu nammu.”*\n> *“Nenu good person.”*\n\nMadhu phone lock chesadu.\nHeart lo pain perigindi.\nBut reply ivvaledu.",
+                    "image": "public/images/ch16/i1.png",
+                    "music": "public/music/ch16/m1.mp3"
+                },
+                {
+                    "pageNumber": 2,
+                    "content": "\n\n**Weeks Passing… Same Pattern**\n\n**Every week… once.**\n\nPriyanka message chestundi.\nMadhu chustadu.\nBut silence.\n\n* One week\n* Two weeks\n* Three weeks\n\nMessages tone change avtundi.\nHope → Fear → Tears.",
+                    "image": "public/images/ch16/i2.png",
+                    "music": "public/music/ch16/m2.mp3"
+                },
+                {
+                    "pageNumber": 3,
+                    "content": "**November 15, 2025 – The Breaking Point**\n\nEe roju…\n**Everything changed.**\n\nPriyanka messages continuous ga vastunnayi.\n\nMadhu phone chetilo pattukoni…\nReply ivvaledu.\nBut **tears phone screen meeda padutunnayi.**\n\n\n\n**Priyanka’s Long Message (Heart Completely Open)**\n\n**Priyanka:**\n\n> *“Kanna… please Kanna.”*\n> *“Naa maatalu vinava?”*\n> *“Nenu idhi cheptunnanu just because I want you.”*\n> *“Nuvvu past lo em chesina naku parledhu.”*\n\nMadhu tears wipe chesukuntadu.\nMessage scroll chestadu.\n\n**Priyanka:**\n\n> *“Nenu past lo em cheyyaledu Kanna.”*\n> *“Please nammu.”*\n\nMadhu hands shake avtunnayi.\nReply ledu.",
+                    "image": "public/images/ch16/i3.png",
+                    "music": "public/music/ch16/m3.mp3"
+                },
+                {
+                    "pageNumber": 4,
+                    "content": "**Then… She Uses the Most Painful Word**\n\n**Priyanka:**\n\n> *“Bava…”*\n> *“Nuvvu naa bava kada?”*\n> *“Please bava, naatho matladu.”*\n> *“Nenu em tappu cheyyaledu bava.”*\n> *“Nenu ala kaadu bava.”*\n\nMadhu eyes close ayyai.\n\n\n\n**Complete Surrender of Love**\n\n**Priyanka:**\n\n> *“Nuvvu kavali bava.”*\n> *“Nuvvu kavali ante nenu emaina chestha.”*\n> *“Naku em vaddu.”*\n> *“Nenu anni sacrifice chestha.”*\n> *“Nuvvu maatram undu.”*\n\n> *“Nuvvu entha bad ga behave chesina parledhu.”*\n> *“Entha tittina parledhu.”*\n> *“Please naa character ni doubt cheyyaku.”*\n\n> *“Nuvvu naa first love bava.”*\n> *“Nuvve naa last love kuda.”*\n> *“Nenu evaritho tiragaledu.”*\n> *“Nenu evaritho relationship lo ledu.”*\n\n> *“Oka ammayi malli malli thirigi neekosam vasthundi ante…”*\n> *“Once think cheyyi.”*\n> *“Enta love undo artham avtundi.”*",
+                    "image": "public/images/ch16/i4.png",
+                    "music": "public/music/ch16/m4.mp3"
+                },
+                {
+                    "pageNumber": 5,
+                    "content": "Madhu ee messages choodadam aapesaadu. Cell phone pakkan petti padukunnadu...\n\n**End of Chapter 16**\n\n💔 Love that begged\n💔 Love that surrendered\n💔 Love that was still ignored",
+                    "image": "public/images/ch16/i5.png",
+                    "music": "public/music/ch16/m5.mp3"
+                }
+            ]
+        },
+        {
+            "chapterId": 17,
+            "chapterTitle": "The Message That Finally Went",
+            "pages": [
+                {
+                    "pageNumber": 1,
+                    "content": "Inka madhu alaane padukunnaadu. Nidra ravadam ledu.\n\nPriyanak still waiting....\n\nala night 2:30 AM ayyindi.\n\nMadhu still edusthoone unnnaadu padukookundaa...",
+                    "image": "public/images/ch17/i1.png",
+                    "music": "public/music/ch17/m1.mp3"
+                },
+                {
+                    "pageNumber": 2,
+                    "content": "ika phone theesukunnaadu message choosaaadu.\nthat bava pilavadam choosi a word choosi thanu okkasarigaa gattiga edchadam start chessadu.\n\naa lines Madhu ni **complete ga break** chesaayi.",
+                    "image": "public/images/ch17/i2.png",
+                    "music": "public/music/ch17/m2.mp3"
+                },
+                {
+                    "pageNumber": 3,
+                    "content": "**Madhu’s Message (Finally Sent)**\n\n> *“Bujji…”*\n> *“Nuvvu antha strong ani naku teliyaledu.”*\n> *“Nenu silent ga unna prathi roju…”*\n> *“Nuvvu fight chesav, wait chesav, hope pettukunnav.”*\n\nSend.\n\nHeart beats fast.\n\nSeen ticks not yet come.\n\n\n\n**Madhu Continues (Before Fear Stops Him)**\n\n> *“Nenu ninnu push cheyyadaniki try chesanu…”*\n> *“But nannu nene mosam chesukunnanu.”*\n> *“Nuvvu weak kaadu.”*\n> *“Nenu bayapadda.”*\n\nSend.",
+                    "image": "public/images/ch17/i3.png",
+                    "music": "public/music/ch17/m3.mp3"
+                },
+                {
+                    "pageNumber": 4,
+                    "content": "**Seen ✔✔**\n\nSeconds pass…\n\nThen…\n\n**Typing…**\n\n\n\n**Priyanka’s Reply (Soft, Not Angry)**\n\n> *“Kanna…”*\n> *“Finally.”*\n\nMadhu’s eyes fill.\n\n\n\n**Priyanka**\n\n> *“Nuvvu nannu leave cheyyadaniki reason lu create chesav ani naku telusu.”*\n> *“Nuvvu bad person ani naku epudu anipinchaledu.”*\n> *“Nuvvu bayapadutunnav ani telusu.”*",
+                    "image": "public/images/ch17/i4.png",
+                    "music": "public/music/ch17/m4.mp3"
+                },
+                {
+                    "pageNumber": 5,
+                    "content": "**Madhu Breaks Completely**\n\n> *“Yes Bujji…”*\n> *“Nenu bayapadda.”*\n> *“Nee life ni spoil cheyyalani naku ledu.”*\n> *“Nuvvu naku dorikina best gift.”*\n> *“Nuvvu ekkada unna happy ga undaali anukunna.”*\n\n\n\n**Priyanka’s Line That Changes Everything**\n\n> *“Kanna…”*\n> *“Nenu nee life lo guest kaadu.”*\n> *“Nenu journey partner.”*\n> *“Nuvvu fail ayina, nenu pakkane untanu.”*\n> *“Nuvvu succeed ayina, nenu pakkane untanu.”*\n\nPause.\n\nThen one more message.\n\n> *“Nuvvu unte chaaaley ....”*\n\n\n\n**Madhu’s Reply (Truth, No Drama)**\n\n> *“I am sorr bujjamma...”*\n\nSend.\n\n\n\n**Priyanka (Immediate)**\n\n> *“Its okay bavaaaa.... ”* ❤️\n\n**Soft Anger – Like a Mother Scolding a Child**\n\nTone sudden ga maarutundi.\n\n**Priyanka:**\n\n> *“Idi enti bava?”*\n> *“Naa happiness kosam ani…”*\n> *“Naa character ni ila matladutava?”*\n\n> *“Nuvvu nannu entha love chestunnav bava?”*\n> *“Cheppu.”*\n\n> *“Nenu ivala message cheyyakapothe…”*\n> *“Nannu vadilese vaadiva?”*\n\n> *“Vadilesi pothe champestha ninnu.”*\n\n> *“Over think cheyyaku.”*\n> *“Sensible ga undu.”*\n\n> *“Nuvvu ela unna…”*\n> *“Nenu nee pakkane unta.”*\n\n> *“Nuvvu unte…”*\n> *“Ade chaalu.”*\n\n> *“Naku inkem akkarledu.”*\n> *“I L U K”* ❤️\n\n\n**Madhu’s Reply (Truth, No Drama)**\n\n> *“I L U 2 B”* ❤️\n> *“Bujjiiii Inkoosari Bava aneeee”* ❤️\n\n\n**Priyanka:**\n\n> *“Bavaaaa”*\n\n**Madhu’s Reply (Truth, No Drama)**\n\n> *“Wow...”* ❤️\n> *“Inkoosaari aneeee”* ❤️\n\n**Priyanka:**\n\n> *“Bavaaaaaaaaaaaaaaaaaaaaaaa”*\n\n**Madhu’s Reply (Truth, No Drama)**\n\n> *“Wow...”* ❤️\n> *“Inkokkasaari Nuvvu mathrame anelaa nannu mathrame anelaaa aneeee* ❤️\n\n**Priyanka:**\n\n> *“Baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa”*\n\n**Madhu’s Reply (Truth, No Drama)**\n\n> *“🫠🫠🫠🫠🫠🫠”* ❤️\n\n...\n...\n...\n\n\n\nJust **two people choosing each other again**.\n\n\n\n🌙 Love survived fear\n🌙 Silence finally broke",
+                    "image": "public/images/ch17/i5.png",
+                    "music": "public/music/ch17/m5.mp3"
+                }
+            ]
+        },
+        {
+            "chapterId": 18,
+            "chapterTitle": "The Present: Love Revealed (2026 Planning)",
+            "pages": [
+                {
+                    "pageNumber": 1,
+                    "content": "After all those months of **pure love and closeness**, finally, Andaru valla meda doubt padadam start chessaru.\nSome people noticed thier bonding, Konthamandi vallu matladedi kooda choosaru, valla gifts, valla moments.\nKaani evariki **no full confirmation**",
+                    "image": "public/images/ch18/i1.png",
+                    "music": "public/music/ch18/m1.mp3"
+                },
+                {
+                    "pageNumber": 2,
+                    "content": "But **Priyanka was very clear**— Okavela valla gurinchi valla nanna ki thelisthey thana dvara ne theliyaali, inkoo valla dwara vaddu ani.\n\nShe **planned everything carefully**:\n\n* She wanted to **reveal thier love story herself**.\n* She wanted it to be for the **purpose of marriage**, nothing else.\n* She was **ready to take risks**, even if it affected her studies or daily life.\n* Her **trust in Madhu** and in herself was stronger than any fear.",
+                    "image": "public/images/ch18/i2.png",
+                    "music": "public/music/ch18/m2.mp3"
+                },
+                {
+                    "pageNumber": 3,
+                    "content": "The plan was **set for her birthday, January 7th, 2026**.\nOn that day, she would **reveal everything**—thier jthierney, thier love, thier truth—to her father.\n\nThis chapter is **the present**, the turning point before the final step toward marriage,\nand the story **pauses here**, for now…",
+                    "image": "public/images/ch18/i3.png",
+                    "music": "public/music/ch18/m3.mp3"
+                }
+            ]
+        }
+    ]
+}
+}
