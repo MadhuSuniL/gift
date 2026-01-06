@@ -82,7 +82,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function buildBookDOM() {
         const bookData = state.bookData.root;
-        const chapters = bookData.chapters.slice(10);
+        const chapters = bookData.chapters;
         let htmlPages = [];
         
         // Reset Music Map

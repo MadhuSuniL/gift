@@ -62,10 +62,19 @@
 </head>
 <body class="h-dvh w-screen overflow-hidden bg-stone-950">
 
-    <div id="cinematic-overlay" class="fixed inset-0 z-50 bg-stone-950 flex flex-col items-center justify-center text-white transition-opacity duration-1000">
+    <div id="mobile-warning" class="fixed inset-0 z-[100] bg-stone-950 flex flex-col items-center justify-center p-10 text-center lg:hidden">
+        <div class="text-6xl mb-6 animate-bounce">💻</div>
+        <h2 class="text-2xl font-serif text-love-gold mb-4">A Cinematic Experience Awaits</h2>
+        <p class="text-stone-400 max-w-sm leading-relaxed font-sans">
+            Our story is best told on a larger canvas. Please open this link on a <strong>Desktop or Laptop</strong> to begin the journey.
+        </p>
+        <div class="mt-8 text-love-base/30 text-4xl">♥</div>
+    </div>
+
+    <div id="cinematic-overlay" class="hidden lg:flex fixed inset-0 z-50 bg-stone-950 flex-col items-center justify-center text-white transition-opacity duration-1000">
         <div id="start-screen" class="text-center space-y-8 animate-pulse">
             <div class="text-9xl text-love-base drop-shadow-[0_0_15px_rgba(225,29,72,0.5)]">♥</div>
-            <button id="begin-btn" class="px-8 py-3 border border-rose-800 text-rose-200 rounded-full hover:bg-love-base hover:text-white hover:border-transparent transition-all">
+            <button id="begin-btn" onclick="enterFullscreen()" class="px-8 py-3 border border-rose-800 text-rose-200 rounded-full hover:bg-love-base hover:text-white hover:border-transparent transition-all">
                 Start the Love
             </button>
         </div>
@@ -74,17 +83,20 @@
         </div>
     </div>
 
-    <main id="reader-app" class="opacity-0 transition-opacity duration-1000 h-dvh w-full flex flex-col book-stage">
-        <header class="hidden h-14 flex items-center justify-between px-6 z-20 bg-stone-900/50 backdrop-blur-md border-b border-stone-800">
+    <main id="reader-app" class="hidden lg:flex opacity-0 transition-opacity duration-1000 h-dvh w-full flex-col book-stage">
+        <header class="h-14 flex items-center justify-between px-6 z-20 bg-stone-900/50 backdrop-blur-md border-b border-stone-800">
             <span class="font-script text-2xl text-love-gold">Our Story</span>
-            <button id="music-toggle-btn" class="w-8 h-8 rounded-full bg-stone-800 text-love-gold border border-stone-700 shadow opacity-50">🎵</button>
+            <div class="flex items-center gap-4">
+                 <button onclick="toggleFullscreen()" class="text-stone-400 hover:text-white text-sm uppercase tracking-widest">⛶ Fullscreen</button>
+                <button id="music-toggle-btn" class="w-8 h-8 rounded-full bg-stone-800 text-love-gold border border-stone-700 shadow opacity-50">🎵</button>
+            </div>
         </header>
 
         <div class="flex-1 flex items-center justify-center py-4">
             <div id="book" class="relative drop-shadow-[0_20px_40px_rgba(0,0,0,0.9)]"></div>
         </div>
 
-        <footer class="hidden flex items-center justify-center gap-8 z-20">
+        <footer class="flex items-center justify-center gap-8 pb-8 z-20">
             <button id="prev-btn" class="px-6 py-2 bg-stone-800 border border-stone-700 rounded-full shadow text-stone-300 hover:text-love-gold hover:border-love-gold transition-all">Previous</button>
             <button id="next-btn" class="px-6 py-2 bg-love-deep border border-love-base text-love-cream rounded-full shadow hover:bg-love-base transition-all">Next Page</button>
         </footer>
@@ -93,6 +105,28 @@
     <audio id="bg-music" loop></audio>
     <audio id="title-music"></audio>
 
+    <script>
+        function enterFullscreen() {
+            const elem = document.documentElement;
+            if (elem.requestFullscreen) {
+                elem.requestFullscreen();
+            } else if (elem.webkitRequestFullscreen) { /* Safari */
+                elem.webkitRequestFullscreen();
+            } else if (elem.msRequestFullscreen) { /* IE11 */
+                elem.msRequestFullscreen();
+            }
+        }
+
+        function toggleFullscreen() {
+            if (!document.fullscreenElement) {
+                enterFullscreen();
+            } else {
+                if (document.exitFullscreen) {
+                    document.exitFullscreen();
+                }
+            }
+        }
+    </script>
     <script src="app.js"></script>
 </body>
 </html>
